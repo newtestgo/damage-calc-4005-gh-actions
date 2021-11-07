@@ -1,5 +1,5 @@
 # damage-calc
-![](https://github.com/自分のGitHubアカウント名/damage-calc-4005-gh-actions/actions/workflows/Damage%20Calculation%20Test/badge.svg)
+[![Damage Calculation Test](https://github.com/newtestgo/damage-calc-4005-gh-actions/actions/workflows/main.yml/badge.svg)](https://github.com/newtestgo/damage-calc-4005-gh-actions/actions/workflows/main.yml)
 
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
